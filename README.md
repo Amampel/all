@@ -1,5 +1,9 @@
 # Git Workshop Exercises
 
+
+modificado de nuevo
+modificado
+
 This project contains the practical excercise used during Git Training course that is part of the SDCL Training Path. The presentation used during the course is available here, https://prezi.com/vjtb6zuxohjk/introduction-to-git/.
 //mampel
 //segundo
@@ -29,3 +33,6 @@ Copyright (C) 2017 GFT. All rights reserved.
 
 ## Author Information
 * Agile & Devops Practice Iberia. GFTIberia.PSU_Technology@gft.com
+
+
+Andrés
