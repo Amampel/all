@@ -1,7 +1,7 @@
 # Git Workshop Exercises
 
 This project contains the practical excercise used during Git Training course that is part of the SDCL Training Path. The presentation used during the course is available here, https://prezi.com/vjtb6zuxohjk/introduction-to-git/.
-
+//mampel
 The exercises are attempt to practice the basics with Git usful during your day to day work. Here are the links to the excercises
 * [__Getting started:__](00-getting-started/README.md) Here we setup our GitHub account and development environment using Eclipse
 * [__Committing Changes I:__](01-committing-changes-i/README.md) First steps working with Git
