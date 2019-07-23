@@ -29,6 +29,11 @@ Copyright (C) 2017 GFT. All rights reserved.
 ## Author Information
 * Agile & Devops Practice Iberia. GFTIberia.PSU_Technology@gft.com
 
+<<<<<<< HEAD
 miriam
 otramiriam
 
+=======
+
+Andrés
+>>>>>>> 38fa95f96df4eb9f4a3238d23b90ae63f27c8664
